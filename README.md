@@ -15,14 +15,7 @@
 </div>
 <hr>
 <div id="main">
-<h2>:loudspeaker: About Me </h2>
-<p>Welcome to my GitHub profile! My name is Mikhail, a third-year student at Bauman Moscow State Technical University, majoring in Information Processing and Management Systems (specialization: IU5).</p>
-<ul>
-  <li>:computer: Currently diving into the world of frontend development with a focus on React and TypeScript.</li>
-  <li>:video_game: I find joy in playing games like CS 2 and Dota 2 during my downtime.</li>
-  <li>:tv: An avid anime enthusiast, always open to recommendations!</li>
-  <li>:muscle: Striving for a fit and healthy lifestyle while aiming to contribute meaningfully to society.</li>
-</ul>
+
 Feel free to explore my repositories and join me on this coding adventure! 👨‍💻✨
   <h2>:hammer_and_wrench: Tech stack </h2>
   <div>
