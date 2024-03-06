@@ -3,12 +3,6 @@
 
   <img src="/akashi-emperor.gif" alt="akashi" width="506px">
   <div id="badges">
-    <a href="https://vk.com/gramizor">
-       <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
-    </a>
-    <a href="https://www.instagram.com/gramiz0r/">
-       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta"/>
-    </a>
     <a href="https://t.me/gramizor">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
